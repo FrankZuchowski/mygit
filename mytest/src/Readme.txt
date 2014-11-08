@@ -1,0 +1,1 @@
+Just a Readme to document the HelloGit Java classes !
